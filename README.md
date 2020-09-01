@@ -1,0 +1,1 @@
+paper has been published in [2] Li, W., Xiong, R. A hybrid visual servo control method for simultaneously controlling a nonholonomic mobile and a manipulator. Front Inform Technol Electron Eng (2020). https://doi.org/10.1631/FITEE.1900460
